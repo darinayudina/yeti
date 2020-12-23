@@ -1,0 +1,20 @@
+nav{
+	background-color:#1A4457;
+	overflow: hidden;
+}
+nav a{
+	display: block;
+	float: left;
+	color: white;
+	padding: 13px 45.3px;
+	text-decoration: none;
+	text-align: center;
+	width: 19%;
+	margin: 0%;
+	font-size: 1.7em;
+} 
+nav a:hover{
+	background-color:#C1DEE6;
+	color: black;
+	transition: 1.5s;
+}
